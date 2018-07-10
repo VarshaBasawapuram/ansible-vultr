@@ -3,7 +3,7 @@
 
 import sys
 import os
-import time
+#import time
 import requests
 
 driver = None
